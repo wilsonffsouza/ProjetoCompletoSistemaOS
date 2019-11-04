@@ -13,7 +13,7 @@ public class ModalConection {
     private String driver = "com.mysql.jdbc.Driver";
     private String url = "jdbc:mysql://localhost:3306/infotech";
     private String user = "root";
-    private String password = "luiza100313";
+    private String password = "***********";
 
     public Connection getConectar() {
 
